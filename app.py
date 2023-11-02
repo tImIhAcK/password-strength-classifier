@@ -44,7 +44,6 @@ def main():
 	# Load model
 	model = joblib.load('model.joblib')
 
-
 	# Feature Engineering for user inputs
 
 	# Character count features
