@@ -1,5 +1,5 @@
 *.csv
 catboost_info/
 .ipynb_checkpoints/
-.~lock.data.csv
+.~lock.data.csv#
 .~lock.small_data.csv#
